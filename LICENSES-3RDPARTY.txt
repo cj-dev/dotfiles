@@ -1,0 +1,3 @@
+This uses a modified Zenburn Vim color scheme licensed under GNU GPL.
+https://github.com/jnurmine/Zenburn
+http://www.gnu.org/licenses/gpl.html
