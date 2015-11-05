@@ -1,5 +1,5 @@
-" ----------------------- This jackass's notes ------------------------------- "
-" This theme is based on, is influenced by, and plagiarizes from Jani Nurminen's 
+" --------------------------- Chris's Notes ---------------------------------- "
+" This theme is based on, is influenced by, and plagiarizes Jani Nurminen's 
 " Zenburn vim theme.
 "
 " I'm sure I've made a mess of it.
