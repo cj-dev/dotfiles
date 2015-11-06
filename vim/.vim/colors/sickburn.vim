@@ -99,7 +99,7 @@ hi Conditional     guifg=#f0dfaf gui=bold                     ctermfg=228 cterm=
 hi Constant        guifg=#dca3a3 gui=bold                     ctermfg=181 cterm=bold
 hi Cursor          guifg=#000d18 guibg=#8faf9f gui=bold       ctermfg=233 ctermbg=109 cterm=bold
 hi Debug           guifg=#bca3a3 gui=bold                     ctermfg=181 cterm=bold
-hi Define          guifg=#ffcfaf gui=bold                     ctermfg=168
+hi Define          guifg=#ffcfaf gui=bold                     ctermfg=172
 hi Delimiter       guifg=#8f8f8f                              ctermfg=245
 hi DiffAdd         guifg=#709080 guibg=#313c36 gui=bold       ctermfg=66  ctermbg=237 cterm=bold
 hi DiffChange      guibg=#333333                              ctermbg=236
@@ -120,7 +120,7 @@ hi Keyword         guifg=#f0dfaf gui=bold                     ctermfg=223 cterm=
 hi Macro           guifg=#ffcfaf gui=bold                     ctermfg=223 cterm=bold
 hi ModeMsg         guifg=#ffcfaf gui=none                     ctermfg=223 cterm=none
 hi MoreMsg         guifg=#ffffff gui=bold                     ctermfg=231 cterm=bold
-hi Number          guifg=#8cd0d3                              ctermfg=167
+hi Number          guifg=#8cd0d3                              ctermfg=172
 hi Operator        guifg=#f0efd0                              ctermfg=117
 hi PmenuSbar       guibg=#2e3330 guifg=#000000                ctermfg=16  ctermbg=236
 hi PmenuThumb      guibg=#a0afa0 guifg=#040404                ctermfg=232 ctermbg=151
