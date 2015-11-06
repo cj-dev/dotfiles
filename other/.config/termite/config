@@ -5,3 +5,28 @@ font = Monospace 10
 
 [colors]
 background = rgba(66, 66, 96, 0.75)
+foreground = #dfdfaf
+# Black + DarkGrey
+color0 =  #5f5f5f
+color8 =  #afaf87
+# DarkRed + Red
+color1 =  #d78700
+color9 =  #d7875f
+# DarkGreen + Green
+color2 =  #87af5f
+color10 = #87af87
+# DarkYellow + Yellow
+color3 =  #dfaf00
+color11 = #dfdf5f
+# DarkBlue + Blue
+color4 =  #87afaf
+color12 = #87d7d7
+# DarkMagenta + Magenta
+color5 =  #875faf
+color13 = #af87ff
+#DarkCyan + Cyan
+color6 =  #d787d7
+color14 = #d787ff
+# LightGrey + White
+color7 =  #cccccc
+color15 = #ffffff
