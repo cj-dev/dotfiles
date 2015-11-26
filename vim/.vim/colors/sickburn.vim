@@ -112,7 +112,7 @@ hi Exception       guifg=#c3bf9f gui=bold                     ctermfg=74 cterm=b
 hi Float           guifg=#c0bed1                              ctermfg=251
 hi FoldColumn      guifg=#93b3a3 guibg=#3f4040
 hi Folded          guifg=#93b3a3 guibg=#3f4040
-hi Function        guifg=#efef8f                              ctermfg=227
+hi Function        guifg=#efef8f                              ctermfg=178
 hi Identifier      guifg=#efdcbc                              ctermfg=223 cterm=none
 hi Include         guifg=#dfaf8f gui=bold                     ctermfg=109 cterm=bold
 hi IncSearch       guifg=#f8f893 guibg=#385f38                ctermfg=228 ctermbg=23
@@ -134,7 +134,7 @@ hi SpecialChar     guifg=#dca3a3 gui=bold                     ctermfg=181 cterm=
 hi SpecialComment  guifg=#82a282 gui=bold                     ctermfg=108 cterm=bold
 hi Special         guifg=#cfbfaf                              ctermfg=181
 hi SpecialKey      guifg=#9ece9e                              ctermfg=151
-hi Statement       guifg=#e3ceab gui=none                     ctermfg=113 cterm=bold
+hi Statement       guifg=#e3ceab gui=none                     ctermfg=107 cterm=bold
 hi StatusLine      guifg=#313633 guibg=#ccdc90                ctermfg=236 ctermbg=186
 hi StatusLineNC    guifg=#2e3330 guibg=#88b090                ctermfg=235 ctermbg=108
 hi StorageClass    guifg=#c3bf9f gui=bold                     ctermfg=249 cterm=bold
