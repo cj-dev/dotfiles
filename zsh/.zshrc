@@ -9,7 +9,7 @@ promptinit
 autoload -Uz compinit
 compinit
 
-# I don't remember where I picked this up...
+# https://scottlinux.com/2011/08/19/quick-intro-to-zsh-auto-complete
 zstyle ':completion:*' auto-description 'specify: %d'
 zstyle ':completion:*' completer _expand _complete _correct _approximate
 zstyle ':completion:*' format 'Completing %d'
