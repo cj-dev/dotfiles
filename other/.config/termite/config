@@ -3,6 +3,8 @@ font = Monospace 10
 #font = Terminus (TTF) 10
 #font = Droid Sans Mono 8
 
+clickable_url = false
+
 [colors]
 background = rgba(66, 66, 81, 0.80)
 foreground = #dfdfaf
