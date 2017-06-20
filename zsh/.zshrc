@@ -34,6 +34,7 @@ alias b='popd > /dev/null'
 alias q='exit'
 alias ll='ls -lh'
 alias la='ls -lah'
+alias whatsmyip='dig +short myip.opendns.com @resolver1.opendns.com'
 
 setopt histignorealldups sharehistory
 
@@ -46,14 +47,15 @@ plugins=(git vi-mode python zsh-syntax-highlighting)
 source $ZSH/oh-my-zsh.sh
 
 #------------------Last Minute Tweaks-----------------------#
+# For termite scrollback
 test -r ~/.dircolors && eval "$(dircolors ~/.dircolors)" || eval "$(dircolors -b)"
 if [[ $TERM == xterm-termite ]]; then
   . /etc/profile.d/vte.sh
   __vte_osc7
 fi
 
-export PATH=$HOME/bin:$PATH
 export GEM_HOME=$(ruby -e 'print Gem.user_dir')
+export PATH=$HOME/bin:$GEM_HOME/bin:$PATH
 export EDITOR=vim
 
 bindkey -v
